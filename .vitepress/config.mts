@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Exercice 16",
   description: "Revue de code documentée",
+  base: '/appweb-exer16/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -17,8 +18,7 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: 'Revue de code par Alexandre St-Amant', link: '/Alexandre-St-Amant' },
-          { text: 'Revue de code par William Villeneuve', link: '/William-Villeneuve' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Revue de code par William Villeneuve', link: '/William-Villeneuve' }
         ]
       }
     ],
