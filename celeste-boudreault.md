@@ -1,4 +1,4 @@
-# Revue du code d'Alexandre St-Amand par Céleste Boudreault
+# Revue du code d'Alexandre St-Amant par Céleste Boudreault
 
 ## Commentaires sur l'ensemble du code
 
