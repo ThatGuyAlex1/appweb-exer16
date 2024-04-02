@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Revue de code par William Villeneuve
       link: /William-Villeneuve
+    - theme: alt
+      text: Revue de code par Celeste Bouldreault
+      link: /celeste-boudreault
 
 features:
   - title: Feature A

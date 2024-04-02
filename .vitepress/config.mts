@@ -10,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Revue de code par Alexandre St-Amant', link: '/Alexandre-St-Amant' },
-      { text: 'Revue de code par William Villeneuve', link: '/William-Villeneuve' }
+      { text: 'Revue de code par William Villeneuve', link: '/William-Villeneuve' },
+      { text: 'Revue de code par Celeste Boudreault', link: '/celeste-boudreault' }
     ],
 
     sidebar: [
@@ -18,7 +19,8 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: 'Revue de code par Alexandre St-Amant', link: '/Alexandre-St-Amant' },
-          { text: 'Revue de code par William Villeneuve', link: '/William-Villeneuve' }
+          { text: 'Revue de code par William Villeneuve', link: '/William-Villeneuve' },
+          { text: 'Revue de code par Celeste Boudreault', link: '/celeste-boudreault' }
         ]
       }
     ],
